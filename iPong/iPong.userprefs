@@ -1,8 +1,8 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="../iPong/Assets/bracketCtr.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/bracketCtr.cs">
     <Files>
-      <File FileName="../iPong/Assets/bracketCtr.cs" Line="16" Column="33" />
+      <File FileName="Assets/bracketCtr.cs" Line="16" Column="33" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
