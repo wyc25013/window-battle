@@ -14,7 +14,7 @@ public class bracketCtr1 : MonoBehaviour {
 	void Update () {
 		float yPos = gameObject.transform.position.y + (Input.GetAxis ("Vertical1") * bracketSpeed);
 		float xPos = gameObject.transform.position.x + (Input.GetAxis ("Horizontal1") * bracketSpeed);
-		playerPos = new Vector3 (Mathf.Clamp(xPos, -15, 0), Mathf.Clamp (yPos, -11, 11), 0);
+		playerPos = new Vector3 (Mathf.Clamp(xPos, -20, 0), Mathf.Clamp (yPos, -12, 12), 0);
 		gameObject.transform.position = playerPos;
 	}
 }
