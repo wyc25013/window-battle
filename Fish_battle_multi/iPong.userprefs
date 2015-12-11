@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/diappear.cs">
+    <Files>
+      <File FileName="Assets/scripts/bracketCtr1.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/bonus.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/bonus_ball.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/bonus_picker.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/bracketCtr2.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/diappear.cs" Line="8" Column="45" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

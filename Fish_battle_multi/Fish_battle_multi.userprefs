@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/tutorials.cs">
+    <Files>
+      <File FileName="Assets/scripts/bonus.cs" Line="19" Column="50" />
+      <File FileName="Assets/scripts/punish.cs" Line="25" Column="35" />
+      <File FileName="Assets/scripts/bonus_ball.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/punish_ball.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/tutorials.cs" Line="55" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
